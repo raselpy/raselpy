@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Md Rasel Ahmed</h1>
+<h1 align="left">Hi 👋, I'm Md Rasel Ahmed</h1>
 <h3 align="center">I’m a passionate developer currently pursuing a Master's degree in Artificial Intelligence at Friedrich Alexander University Erlangen-Nürnberg (FAU) in Germany. My journey in AI is driven by a deep curiosity to explore the latest advancements in machine learning, data science, and automation.</h3>
 
 - 🌱 I’m currently learning **Pytorch**
 
-- 📫 How to reach me **rasel.ahmed@fau.de**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
